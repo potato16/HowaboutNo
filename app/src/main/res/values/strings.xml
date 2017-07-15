@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HowaboutNo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="run">Run</string>
+    <string name="zero">00</string>
+    <string name="another_one">Another One</string>
+    <string name="enough_take_me_back">Enough! Take me back.!</string>
+    <string name="go_somewhere_be_someone">Go Somewhere! Be Someone</string>
+    <string name="takeselfie">takeselfie</string>
+    <string name="prefence_file_key">sai.choclatstudio.com.howaboutno.PREFENCE_FILE_KEY</string>
+    <string name="saved_text_color">PREFENCE_FILE_KEY_TEXT_COLOR</string>
+    <string name="saved_text_value">PREFENCE_FILE_KEY_TEXT_BALUE</string>
+</resources>
